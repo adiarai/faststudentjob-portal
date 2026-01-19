@@ -1,3 +1,4 @@
+<img width="1538" height="892" alt="faststudentjob" src="https://github.com/user-attachments/assets/6369559e-df5f-4c31-adcc-889dd4863eac" />
 # faststudentjob-portal
 Full-stack Laravel/PHP job portal for students, featuring job listings, application workflows, and application data analytics by city and category.
 # Fast Student Jobs
